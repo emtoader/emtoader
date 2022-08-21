@@ -1,0 +1,5 @@
+- 👋 Hi, I’m @emtoader
+- 👀 I’m interested in NodeJS, React, React Native, PHP, SQL & noSQL DB, AWS
+- 🌱 I’m currently learning things I should've learned a long time ago
+- 💞️ I’m looking to collaborate on Full Time Remote Projects
+- 📫 How to reach me emil@exclusive.ro
