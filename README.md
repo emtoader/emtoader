@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @emtoader - just recently started to upload some of my non-commercial work
 - 👀 I’m interested in NodeJS, React, React Native, PHP, SQL & noSQL DB, AWS
-- 🌱 I’m currently learning things I should've learned a long time ago
+- 🌱 I’m currently going a bit more in depth into Jenkis & CI/CD
 - 💞️ I’m looking to collaborate on Full Time Remote Projects
 - 📫 How to reach me emil@exclusive.ro
