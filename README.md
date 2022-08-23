@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @emtoader
+- 👋 Hi, I’m @emtoader - just recently started to upload some of my non-commercial work
 - 👀 I’m interested in NodeJS, React, React Native, PHP, SQL & noSQL DB, AWS
 - 🌱 I’m currently learning things I should've learned a long time ago
 - 💞️ I’m looking to collaborate on Full Time Remote Projects
